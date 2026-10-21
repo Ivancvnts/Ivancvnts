@@ -47,14 +47,14 @@ Desarrollador Full Stack con enfoque en el stack **MERN**. Me gusta resolver pro
 
 Red social full stack para compartir fotografías, mi proyecto final del bootcamp de TripleTen. Tiene una API REST propia con Node.js y Express y un frontend en React, organizados en un monorepo. Incluye registro de usuarios, edición de perfil y tarjetas de lugares con "me gusta".
 
-[🔗 Demo](#) · [💻 Código](https://github.com/Ivancvnts/web_project_around_auth)
+[🔗 Demo](https://around-ivan.mooo.com/signin) · [💻 Código](https://github.com/Ivancvnts/web_project_around_auth)
 
 ### 🎮 Pixel-Pile
 `React` · `Vite` · `Context API` · `React Router` · `CSS (BEM)`
 
 Aplicación para descubrir videojuegos y armar una lista de favoritos con datos de la API de RAWG. Tiene búsqueda con filtros, paginación, detalle de cada juego y registro e inicio de sesión con validación de formularios, con diseño responsive.
 
-[🔗 Demo](#) · [💻 Código](https://github.com/Ivancvnts/pixel-pile-frontend)
+[🔗 Demo](https://ivancvnts.github.io/pixel-pile-frontend/) · [💻 Código](https://github.com/Ivancvnts/pixel-pile-frontend)
 
 ### 🕹️ Ghunter
 `Unreal Engine` · `C++`
