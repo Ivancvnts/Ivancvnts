@@ -22,7 +22,7 @@ Desarrollador Full Stack con enfoque en el stack **MERN**. Me gusta resolver pro
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite" alt="Frontend" />
 </p>
 
 **Backend y bases de datos**
